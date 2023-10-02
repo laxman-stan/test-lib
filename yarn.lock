@@ -14768,9 +14768,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"react-native-test-lib@workspace:.":
+"react-native-testingggggg-lib@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-native-test-lib@workspace:."
+  resolution: "react-native-testingggggg-lib@workspace:."
   dependencies:
     "@commitlint/config-conventional": ^17.0.2
     "@evilmartians/lefthook": ^1.5.0
